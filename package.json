@@ -8,9 +8,10 @@
     "start": "webpack -w & nodemon server.js"
   },
   "dependencies": {
-    "express": "^4.12.3",
+    "express": "^4.16.2",
     "fs": "0.0.1-security",
     "gps-util": "^1.0.1",
+    "path": "^0.12.7",
     "pixi-particles": "^2.1.8",
     "pixi.js": "^4.6.0"
   },
